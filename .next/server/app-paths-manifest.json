@@ -1,6 +1,14 @@
 {
-  "/page": "app/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/login/page": "app/admin/login/page.js",
+  "/persons/[id]/dispute/page": "app/persons/[id]/dispute/page.js",
+  "/methodology/page": "app/methodology/page.js",
+  "/admin/incidents/[id]/page": "app/admin/incidents/[id]/page.js",
+  "/admin/disputes/[id]/page": "app/admin/disputes/[id]/page.js",
   "/incidents/page": "app/incidents/page.js",
   "/submit/page": "app/submit/page.js",
-  "/methodology/page": "app/methodology/page.js"
+  "/page": "app/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/incidents/[id]/page": "app/incidents/[id]/page.js",
+  "/persons/[id]/page": "app/persons/[id]/page.js"
 }
